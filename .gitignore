@@ -1,0 +1,5 @@
+# Ignore common Python/cache/docker files
+__pycache__/
+*.pyc
+.env
+*.log
